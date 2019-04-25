@@ -8,7 +8,7 @@ Starting the shell is as simple as executing the Python file by typing `python d
 
 ### Commands
 
-*Usage:*
+**Usage:**
 First, you are prompted to pass in two executables to compare.
 
 * `help` prints out a help screen.
